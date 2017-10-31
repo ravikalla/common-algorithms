@@ -1,7 +1,8 @@
 // CYCOMETIC complexity
+// 10-Oct-2006
 import java.io.*;
 
-public class complexity
+public class CyclomaticComplexity
 {
 	static int substr(String s1, String s2)	// returns no. of times 's2' is present in 's1'
 	{
